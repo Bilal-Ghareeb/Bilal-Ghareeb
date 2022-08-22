@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal Tamer Mostafa Ghareeb</h1>
-<h3 align="center">A passionate Game developer from Egypt</h3>
+<h3 align="center"> Senior CS Student || Passionate Game developer from Egypt</h3>
 
 - 🔭 I’m currently working on [Roger-Dynasty](https://github.com/bilal-tamer/Roger-Dynasty)
 
